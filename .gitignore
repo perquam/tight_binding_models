@@ -2,5 +2,6 @@ __pycache__/
 .DS_Store
 .idea/
 venv/
+11bands/
 *.png
 __init__.py
